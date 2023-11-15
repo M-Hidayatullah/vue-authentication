@@ -1,4 +1,4 @@
-# adminpgn
+# pgn-admin-webapp
 
 ## Project setup
 ```
